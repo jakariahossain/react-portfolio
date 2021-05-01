@@ -169,4 +169,12 @@ nav ul li {
     font-size: 20px;
     font-weight: bolder;
   }
+
+  h2 {
+    font-size: 25px;
+  }
+
+  .typed-text {
+    font-size: 20px;
+  }
 }
