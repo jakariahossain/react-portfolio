@@ -125,7 +125,6 @@ nav ul li {
 /* Portfolio  */
 #portfolio_section {
   margin-top: 150px;
-  height: 700px;
 }
 
 .portfolio {
@@ -153,7 +152,6 @@ nav ul li {
 /* Contact */
 #contact_section {
   margin-top: 150px;
-  height: 500px;
 }
 
 /* Devices under 768px (md) */

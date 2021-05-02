@@ -13,16 +13,15 @@ function App() {
   return (
     <>
       <Header />
-      <main>
-        <div className="banner-main">
-          <Banner />
-        </div>
-        <About />
-        <Services />
-        <Portfolio />
-        <Contact />
-        <Footer />
-      </main>
+
+      <div className="banner-main">
+        <Banner />
+      </div>
+      <About />
+      <Services />
+      <Portfolio />
+      <Contact />
+      <Footer />
     </>
   );
 }
