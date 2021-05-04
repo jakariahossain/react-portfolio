@@ -22,6 +22,17 @@ const Banner = () => {
           <br />
           <br />
 
+          <p className="banner_social" style={{ marginBottom: "30px" }}>
+            <a href="https://github.com/jakariahossain" target="_blank">
+              <i class="fab fa-github"></i>
+            </a>
+            <a
+              href="https://www.linkedin.com/in/jakaria-hossain-230286198/"
+              target="_blank"
+            >
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </p>
           <a
             href="https://drive.google.com/file/d/11bQgyj8z7asQ-QAeJcdijDCiqsGoe7Ib/view"
             target="_blank"

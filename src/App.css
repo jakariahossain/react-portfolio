@@ -88,6 +88,13 @@ nav ul li {
   text-decoration: none;
   color: var(--primary-white);
 }
+.banner_social a {
+  color: #000;
+}
+.banner_social .fab {
+  font-size: 25px;
+  margin-right: 15px;
+}
 /* Typed */
 .typed-text {
   font-size: 2rem;
